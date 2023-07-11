@@ -10,4 +10,4 @@
 ### To create a new image
 `docker build -t [docker-user-id/name:anytag] .`
 
-#### K8s configuration files will used in Jenkins_pipelien repo
+#### K8s configuration files will used in Jenkins_pipeline repo
